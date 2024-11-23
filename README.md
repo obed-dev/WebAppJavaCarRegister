@@ -24,7 +24,7 @@ Está diseñado para ser escalable, portátil y fácil de mantener.
 
 ## 🛠️ Tecnologías Utilizadas
 - **Lenguaje:** Java
-- **Frameworks:** Servlets y JSP
+- **Tools:** Servlets y JSP
 - **Base de Datos:** MySQL
 - **Gestión de Dependencias:** Maven
 - **IDE:** NetBeans
