@@ -87,6 +87,16 @@ Esto generará un archivo .war en la carpeta target/.
 Despliega el archivo .war en tu servidor Apache Tomcat.
 Accede a la aplicación en tu navegador en http://localhost:8080/ParqueoCRUD.
 
+## Captura de patanlla de la Aplicacion Web
+
+
+![gestor de vehiculos](https://github.com/user-attachments/assets/b1ada53b-689f-4e60-a755-3c91802b4458)
+
+
+![gestor de clientes web ](https://github.com/user-attachments/assets/b44d5a1a-6d0a-424a-b4cf-127bc89ae0e0)
+
+
+
 ## 🖥️ Uso de la Aplicación
 # CRUD de Clientes
 Accede a http://localhost:8080/ParqueoCRUD/clientes.
