@@ -65,7 +65,7 @@ Está diseñado para ser escalable, portátil y fácil de mantener.
        FOREIGN KEY (cliente_id) REFERENCES clientes(id) ON DELETE SET NULL
    );
 
-## Captura de patanlla de la Aplicacion Web
+## Captura de pantalla de la Aplicacion Web
 
 
 ![gestor de vehiculos](https://github.com/user-attachments/assets/b1ada53b-689f-4e60-a755-3c91802b4458)
